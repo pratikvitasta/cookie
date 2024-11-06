@@ -61,9 +61,9 @@ export default function Page() {
         </>
       ) : (
         <>
-          <img className="h-[200px]" src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif" />
+          <img className="h-[200px]" src="https://tenor.com/bIFCn.gif" />
           <h1 className="text-[2rem] text-center leading-tight md:text-5xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
-            {/* Will you be my Valentine? */}
+            {/* Hey cookie, will you go on a date with me? */}
             Em sẽ là tình yêu của anh chứ?
           </h1>
           <div className="text-center space-y-5">
